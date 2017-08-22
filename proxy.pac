@@ -1,6 +1,7 @@
 const PROXY = 'SOCKS5 localhost:1080; DIRECT';
 const NO_PROXY = 'DIRECT';
 const WHITE_LIST = [
+  /\.cn$/,
   /126.net/,
   /163.com/,
   /360buying.com/,
@@ -12,7 +13,6 @@ const WHITE_LIST = [
   /bootcdn.com/,
   /bootcss.com/,
   /daocloud.io/,
-  /dict.cn/,
   /douban.com/,
   /doubanio.com/,
   /fastapi.net/,
@@ -30,7 +30,7 @@ const WHITE_LIST = [
   /zhihu.com/,
   /zhimg.com/,
   // local
-  /^(10|127|192).*/,
+  /^(10|127|192)\./,
   /^localhost/,
 ];
 
