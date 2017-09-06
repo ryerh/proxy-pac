@@ -21,6 +21,7 @@ const WHITE_LIST = [
   /processon.com/,
   /qingcloud.com/,
   /qq.com/,
+  /quqi.com/,
   /ryerh.com/,
   /taobao.com/,
   /weibo.com/,
