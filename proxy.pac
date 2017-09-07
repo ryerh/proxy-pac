@@ -18,6 +18,7 @@ const WHITE_LIST = [
   /fastapi.net/,
   /henghost.com/,
   /jd.com/,
+  /lagou.com/,
   /processon.com/,
   /qingcloud.com/,
   /qq.com/,
