@@ -28,6 +28,7 @@ const WHITE_LIST = [
   /weibo.com/,
   /xsky.com/,
   /ydstatic.com/,
+  /yinxiang.com/,
   /youdao.com/,
   /zhihu.com/,
   /zhimg.com/,
