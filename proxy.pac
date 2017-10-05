@@ -12,6 +12,7 @@ const WHITE_LIST = [
   /bdstatic.com/,
   /bootcdn.com/,
   /bootcss.com/,
+  /coding.net/,
   /daocloud.io/,
   /douban.com/,
   /doubanio.com/,
@@ -20,6 +21,7 @@ const WHITE_LIST = [
   /jd.com/,
   /lagou.com/,
   /processon.com/,
+  /qbox.me/,                 // coding.net cdn
   /qingcloud.com/,
   /qq.com/,
   /quqi.com/,
