@@ -18,6 +18,7 @@ const WHITE_LIST = [
   /doubanio.com/,
   /fastapi.net/,
   /henghost.com/,
+  /images-cn.ssl-images-amazon.com/,
   /jd.com/,
   /lagou.com/,
   /processon.com/,
