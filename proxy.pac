@@ -19,6 +19,7 @@ const WHITE_LIST = [
   /fastapi.net/,
   /henghost.com/,
   /images-cn.ssl-images-amazon.com/,
+  /ingageapp.com/,           // xiaoshouyi.com
   /jd.com/,
   /lagou.com/,
   /processon.com/,
@@ -29,6 +30,7 @@ const WHITE_LIST = [
   /ryerh.com/,
   /taobao.com/,
   /weibo.com/,
+  /xiaoshouyi.com/,
   /xsky.com/,
   /ydstatic.com/,
   /yinxiang.com/,
