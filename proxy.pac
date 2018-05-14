@@ -20,6 +20,7 @@ const WHITE_LIST = [
   /douban.com/,
   /doubanio.com/,
   /fastapi.net/,
+  /growingio.com/,
   /henghost.com/,
   /images-cn.ssl-images-amazon.com/,
   /ingageapp.com/,           // xiaoshouyi.com
