@@ -32,6 +32,7 @@ const WHITE_LIST = [
   /quqi.com/,
   /ryerh.com/,
   /taobao.com/,
+  /toutiao.com/,
   /weibo.com/,
   /xiaoshouyi.com/,
   /xsky.com/,
