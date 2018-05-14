@@ -26,6 +26,7 @@ const WHITE_LIST = [
   /jd.com/,
   /lagou.com/,
   /processon.com/,
+  /pstatp.com/,              // ad.toutiao.com
   /qbox.me/,                 // coding.net cdn
   /qingcloud.com/,
   /qq.com/,
